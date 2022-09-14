@@ -1,0 +1,16 @@
+sort1 uses: Bubble Sort
+
+How do you know? Takes less time when run on sorted as compared to sort3.
+
+sort2 uses: Merge Sort
+
+How do you know?: The time program takes to run is less then other two. It is fast than both sort1 and sort3
+
+sort3 uses: Selection Sort
+
+How do you know?: Time taken by the program is very large even for sorted.
+
+
+
+//sort 1                        //sort 2                              //sort 3
+// sorted: .41s                 //0.35s                               //.53s
